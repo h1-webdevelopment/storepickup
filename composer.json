@@ -1,0 +1,19 @@
+{
+  "name": "h1/storepickup",
+  "config": {
+    "platform": {
+      "php": "7.2"
+    }
+  },
+  "authors": [
+    {
+      "name": "Presta Community Dev"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "storepickup\\":"src/"
+    }
+  },
+  "type": "prestashop-module"
+}
