@@ -1,0 +1,44 @@
+
+Hello! {store_name} representative.
+
+A new order was placed by the following customer: {firstname} {lastname} ({email}). The order needs to be ready for dispatch.
+
+Order details
+
+Order: {order_name} Placed on {date}
+
+Payment: {payment}
+
+Pickup Date: {pickup_date}
+
+
+{items}
+
+Reference 	Product 	Unit price 	Quantity 	Total price
+
+Products 	{total_products}
+
+Discounts 	{total_discounts}
+
+Gift-wrapping 	{total_wrapping}
+
+Shipping 	{total_shipping}
+
+Including total tax 	{total_tax_paid}
+
+Total paid 	{total_paid}
+
+
+Pickup Details
+{delivery_block_html}
+		
+
+Billing address
+{invoice_block_html}
+
+Customer message:
+{message}
+
+{shop_name}
+
+Powered by PrestaShop

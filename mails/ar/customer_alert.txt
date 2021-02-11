@@ -1,0 +1,16 @@
+
+Hello! {firstname} {lastname}.
+
+Thank you for placing order. Pickup your order from {store_name}.
+
+Please do not forget to download and bring the attached Pickup slip.
+
+Your Pickup details:
+
+Order: {order_name} Placed on {date}
+Payment: {payment}
+Pickup Date: {pickup_date}
+
+{shop_name}
+
+Powered by PrestaShop

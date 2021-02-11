@@ -1,0 +1,22 @@
+/*
+* DISCLAIMER
+*
+* Do not edit or add to this file.
+* You are not authorized to modify, copy or redistribute this file.
+* Permissions are reserved by FME Modules.
+*
+*  @author    FMM Modules
+*  @copyright FME Modules 2020
+*  @license   Single domain
+*/
+
+.email_loading {
+  background: url(../../views/img/email_loading.gif) no-repeat scroll center center #fff;
+  height: 100%;
+  left: 0;
+  opacity: 0.85;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 99;
+}

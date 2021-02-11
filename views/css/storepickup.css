@@ -1,0 +1,53 @@
+/**
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file.
+ * You are not authorized to modify, copy or redistribute this file.
+ * Permissions are reserved by FME Modules.
+ *
+ *  @author    FMM Modules
+ *  @copyright FME Modules 2020
+ *  @license   Single domain
+ */
+
+#pickup-stores .title_block {
+  border-top: 4px solid orange;
+  text-transform: uppercase;
+  font-size: 18px;
+  padding: 10px;
+  background: #F1F1F1;
+}
+#pickup-stores .card {
+  box-shadow: none !important;
+}
+#store-pickup-map {
+  height: 500px;
+  width: 100%;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+a.store_selection {
+  border: 1px solid #e4e4e4;
+  padding: 5px;
+  float: right;
+  margin: 0 5px 0px 0px;
+  background: #2fb5d2;
+  color: #fff;
+  text-decoration: none;
+}
+a.store_selection:hover {
+  background: rgb(48, 169, 37);
+  border: 1px solid rgb(48, 169, 37);
+  color: #fff !important;
+}
+#storepickup_pickup_date::placeholder,
+#storepickup_pickup_time::placeholder {
+  background-color: #f2dede;
+  border-color: #ebcccc;
+  color: #a94442;
+}
+
+#storepickup-cal-wrapper .flatpickr-input {
+  font-weight: bold;
+  color: #1e9f0b;
+}
